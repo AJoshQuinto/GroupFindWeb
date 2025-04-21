@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GroupFind")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bfaddd15f7c0d9acb022d248569adc191de56bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4629f8210ae153eb1abfe1f7ad7943a05b30383f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GroupFind")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GroupFind")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
